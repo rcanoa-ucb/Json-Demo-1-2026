@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Json-Demo.props" />
+</Project>
