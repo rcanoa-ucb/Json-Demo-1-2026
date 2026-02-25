@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Json-Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede489d581461cd1815c61b55a7660088cb1fd82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4cc556be34f80fb5f9e3a4f59650033056a804")]
 [assembly: System.Reflection.AssemblyProductAttribute("Json-Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Json-Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
