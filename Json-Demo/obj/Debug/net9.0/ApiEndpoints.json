@@ -288,6 +288,96 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "GetTareaPorId",
+    "RelativePath": "api/Tareas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "MarcarComoCompletada",
+    "RelativePath": "api/Tareas/{id}/completar",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "Health",
+    "RelativePath": "api/Tareas/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "GetTareasPorUsuario",
+    "RelativePath": "api/Tareas/usuario/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "GetTareasPendientes",
+    "RelativePath": "api/Tareas/usuario/{userId}/pendientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Json_Demo.Controllers.TareasController",
+    "Method": "GetResumenUsuario",
+    "RelativePath": "api/Tareas/usuario/{userId}/resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Json_Demo.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

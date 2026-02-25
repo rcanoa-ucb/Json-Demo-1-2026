@@ -27,3 +27,4 @@ C:\Training\Ucb\Json-Demo\Json-Demo\obj\Debug\net9.0\refint\Json-Demo.dll
 C:\Training\Ucb\Json-Demo\Json-Demo\obj\Debug\net9.0\Json-Demo.pdb
 C:\Training\Ucb\Json-Demo\Json-Demo\obj\Debug\net9.0\Json-Demo.genruntimeconfig.cache
 C:\Training\Ucb\Json-Demo\Json-Demo\obj\Debug\net9.0\ref\Json-Demo.dll
+C:\Training\Ucb\Json-Demo\Json-Demo\obj\Debug\net9.0\Json-Demo.sourcelink.json
