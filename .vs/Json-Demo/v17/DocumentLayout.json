@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\json-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\json-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\json-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\json-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|c:\\training\\ucb\\json-demo\\json-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9929F102-11AC-44F7-BC86-D4E696302E8B}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -88,14 +88,14 @@
               "RelativeDocumentMoniker": "Json-Demo\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Json-Demo\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T22:09:11.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Json-Demo",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Json-Demo.csproj",
               "RelativeDocumentMoniker": "Json-Demo\\Json-Demo.csproj",
@@ -108,59 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "People.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\People.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Models\\People.cs",
               "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\People.cs",
               "RelativeToolTip": "Json-Demo\\Models\\People.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T21:51:12.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResumenResponse.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\ResumenResponse.cs",
-              "RelativeDocumentMoniker": "Json-Demo\\Models\\ResumenResponse.cs",
-              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\ResumenResponse.cs",
-              "RelativeToolTip": "Json-Demo\\Models\\ResumenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:20:34.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TareaResponse.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\TareaResponse.cs",
-              "RelativeDocumentMoniker": "Json-Demo\\Models\\TareaResponse.cs",
-              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\TareaResponse.cs",
-              "RelativeToolTip": "Json-Demo\\Models\\TareaResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:20:17.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "Json-Demo\\Models\\Todo.cs",
-              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Todo.cs",
-              "RelativeToolTip": "Json-Demo\\Models\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:20:03.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TareasController.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Controllers\\TareasController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\TareasController.cs",
@@ -173,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Json-Demo\\WeatherForecast.cs",
@@ -186,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Models\\Person.cs",
@@ -199,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PeopleController.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\PeopleController.cs",
@@ -212,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Models\\Post.cs",
@@ -225,7 +186,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Json-Demo\\appsettings.json",
+              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\appsettings.json",
+              "RelativeToolTip": "Json-Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T20:37:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Program.cs",
+              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Program.cs",
+              "RelativeToolTip": "Json-Demo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:36:57.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Models\\Todo.cs",
+              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\Todo.cs",
+              "RelativeToolTip": "Json-Demo\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:20:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TareaResponse.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\TareaResponse.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Models\\TareaResponse.cs",
+              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\TareaResponse.cs",
+              "RelativeToolTip": "Json-Demo\\Models\\TareaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:20:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResumenResponse.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\ResumenResponse.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Models\\ResumenResponse.cs",
+              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Models\\ResumenResponse.cs",
+              "RelativeToolTip": "Json-Demo\\Models\\ResumenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:20:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "JsonDemoController.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Controllers\\JsonDemoController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\JsonDemoController.cs",
@@ -238,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\WeatherForecastController.cs",
@@ -251,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\PostsController.cs",
@@ -264,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "JsonHelper.cs",
               "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\JsonHelper.cs",
               "RelativeDocumentMoniker": "Json-Demo\\JsonHelper.cs",
@@ -273,32 +299,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T21:09:04.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\appsettings.json",
-              "RelativeDocumentMoniker": "Json-Demo\\appsettings.json",
-              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\appsettings.json",
-              "RelativeToolTip": "Json-Demo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-11T20:37:41.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Json-Demo\\Program.cs",
-              "ToolTip": "C:\\Training\\Ucb\\Json-Demo\\Json-Demo\\Program.cs",
-              "RelativeToolTip": "Json-Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T20:36:57.999Z",
               "EditorCaption": ""
             }
           ]
